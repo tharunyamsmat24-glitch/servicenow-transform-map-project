@@ -54,3 +54,6 @@ Created the Employee Analytics Dashboards dashboard and captured the dashboard c
 
 ## Project Outcome
 The project demonstrates importing employee data from a spreadsheet into ServiceNow using Import Sets and Transform Maps, with Coalesce configuration and reporting for the imported data.
+## Demo Video
+
+[Watch the Project Demo Video](https://drive.google.com/file/d/1KIExVFK4RQ-jAiU7jEUYJUJA-ucx-xNB/view?usp=drivesdk)
